@@ -1,0 +1,55 @@
+# Translations template for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-06-10 04:48+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: keyboards/BotKeyboard.py:14
+msgid "Я рекламодатель"
+msgstr "Advertiser"
+
+#: keyboards/BotKeyboard.py:18
+msgid "Я исполнитель"
+msgstr "Worker"
+
+#: middleware/JoinMiddleware.py:31
+msgid ""
+"Привет друг!\n"
+"Не упусти возможность заработать криптовалюту выполняя простые задания.\n"
+"\n"
+"Drops - Это проект созданный для заработка и продвижения в Телеграм\n"
+"\n"
+"Вы можете приобрести рекламу и продвижение своего канала, или заработать "
+"на несложных заданиях в качестве исполнителя."
+msgstr ""
+
+#: routes/RouterHome.py:15
+msgid "Главное меню"
+msgstr "Home menu"
+
+#: routes/RouterHome.py:17
+msgid "Баланс"
+msgstr "Balance"
+
+#: routes/RouterHome.py:18
+msgid "Доступно заданий"
+msgstr "Avaliable tasks"
+
+#: routes/RouterHome.py:21
+msgid "Что бы начать зарабатывать, нажмите кнопку “Получить задание\""
+msgstr "For begin earning, click the “Get task\" button"
+
+
